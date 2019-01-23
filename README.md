@@ -47,7 +47,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 + Or pluses
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://drive.google.com/uc?id=0B-1sATGMVyQYbHBKTVJ2a0tnN0U "Logo Title Text 1")
 
 Reference-style: 
 ![alt text][logo]
