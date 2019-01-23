@@ -1,6 +1,5 @@
 # Adit Shah
 `MarkDown Template`
-------------------
 ##### The content below is from [Markdown-Cheatsheet].
 [Markdown-Cheatsheet]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
