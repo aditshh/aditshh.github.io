@@ -39,5 +39,5 @@ bool contentBanner = false;
  
   
 ###### GitHub UserName: aditshh
-##### More on: [Markdown-Cheatsheet].
+##### Formatting: [Markdown-Cheatsheet].
 [Markdown-Cheatsheet]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
