@@ -1,6 +1,6 @@
 ## `Adit Shah `
 
-##### This is my test GitHub profile.
+##### This is a test GitHub profile.
 
 ![alt text](https://drive.google.com/uc?id=0B-1sATGMVyQYbHBKTVJ2a0tnN0U "CapeCod_MA_Adit")
 
@@ -12,16 +12,6 @@
 **************************
 </pre> 
  
- 
-```C#
-bool contentBanner = false;
-  while(!contentBanner){
-  Console.WriteLine("legit content not coming soon ! ");
-  Console.ReadLine();
-  }
-```
-
-
 #### **GOOD DAY, SEE YOU SOON**
 <pre>
               ,-. 
@@ -39,5 +29,6 @@ bool contentBanner = false;
  
   
 ###### GitHub UserName: aditshh
+
 ##### Formatting: [Markdown-Cheatsheet].
 [Markdown-Cheatsheet]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
