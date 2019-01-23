@@ -1,7 +1,7 @@
 # Adit Shah
 `MarkDown Template`
 ##### The content below is from [Markdown-Cheatsheet].
-<img>https://drive.google.com/open?id=0B-1sATGMVyQYbHBKTVJ2a0tnN0U </img>
+![alt text] (https://drive.google.com/uc?id=0B-1sATGMVyQYbHBKTVJ2a0tnN0U "Logo Title Text 1")
 <pre>
              ,-. 
     ,     ,-.   ,-. 
