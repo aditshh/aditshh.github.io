@@ -1,2 +1,2 @@
-# aditshh.github.io
+# Adit Shah
 `MarkDown Template`
