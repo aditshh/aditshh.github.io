@@ -1,7 +1,8 @@
 # Adit Shah
 `MarkDown Template`
 ------------------
-##### The content below is from [Markdown-Cheatsheet]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+##### The content below is from [Markdown-Cheatsheet].
+[Markdown-Cheatsheet]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
