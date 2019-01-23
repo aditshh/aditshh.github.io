@@ -1,4 +1,4 @@
-## `Adit Shah :shipit: `
+## `Adit Shah `
 
 ##### This is my test GitHub profile.
 
