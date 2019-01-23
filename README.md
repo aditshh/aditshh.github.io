@@ -1,7 +1,7 @@
 # Adit Shah
 `MarkDown Template`
 ##### The content below is from [Markdown-Cheatsheet].
-![alt text](https://drive.google.com/uc?id=0B-1sATGMVyQYbHBKTVJ2a0tnN0U "CapeCodSunRise_Adit")
+![alt text](https://drive.google.com/uc?id=0B-1sATGMVyQYbHBKTVJ2a0tnN0U "CapeCodSun_Adit")
 <pre>
              ,-. 
     ,     ,-.   ,-. 
