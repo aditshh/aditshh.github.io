@@ -1,7 +1,5 @@
 ## `Adit Shah `
 
-##### This is a test GitHub profile.
-
 ![alt text](https://drive.google.com/uc?id=0B-1sATGMVyQYbHBKTVJ2a0tnN0U "CapeCod_MA_Adit")
 
 <pre>
