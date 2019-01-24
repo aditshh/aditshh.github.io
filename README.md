@@ -5,7 +5,7 @@
 <pre>
 *************************
 *       Adit Shah       *
-*   My email addy is    *
+*   My email address is *
 *  (aditshh@gmail.com)  *
 **************************
 </pre> 
